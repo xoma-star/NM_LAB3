@@ -1,0 +1,21 @@
+plot "task3.txt" using 1:2 title "Approximation with n = 1" with lines,"task3.txt" using 1:3 title "Approximation with n = 2" with lines,"task3.txt" using 1:4 title "Approximation with n = 3" with lines,"task3.txt" using 1:5 title "Approximation with n = 4" with lines,"task3.txt" using 1:6 title "Approximation with n = 5" with lines,"task3.txt" using 1:7 title "Approximation with n = 6" with lines,"task3.txt" using 1:8 title "Approximation with n = 7" with lines,"task3.txt" using 1:9 title "Approximation with n = 8" with lines,"task3.txt" using 1:10 title "Approximation with n = 9" with lines,"task3.txt" using 1:11 title "Approximation with n = 10" with lines,"task3.txt" using 1:12 title "Approximation with n = 11" with lines,"task3.txt" using 1:13 title "Approximation with n = 12" with lines,0 1
+0.15 0.977751
+0.3 0.913931
+0.45 0.816686
+0.6 0.697676
+0.75 0.569783
+0.9 0.444858
+1.05 0.33204
+1.2 0.236928
+1.35 0.161621
+1.5 0.105399
+1.65 0.0657103
+1.8 0.0391639
+1.95 0.0223149
+2.1 0.0121552
+2.25 0.00632972
+2.4 0.00315111
+2.55 0.00149969
+2.7 0.000682328
+2.85 0.000296786
+; pause mouse keypress
